@@ -1,0 +1,3 @@
+Advanced C 01: Function Pointers
+
+As funções referenciadas no código por "baixo dos panos" são endereços de memória que contém instruções (código) 
